@@ -21,20 +21,11 @@ O desenvolvimento de agentes autônomos está em alta e abre portas para quem de
 
 Aqui está um resumo do que você encontrará nas próximas aulas:
 
-1. **Introdução aos Fundamentos do CrewAI**
-   – Estamos exatamente aqui!
-
-2. **Visão Geral do Ecossistema CrewAI**
-   – Você vai descobrir todas as ferramentas, integrações e como CrewAI se conecta com o universo da IA.
-
-3. **Componentes Principais de Projetos CrewAI**
-   – Vamos desmontar um projeto CrewAI para entender cada peça e como montar seu próprio projeto do zero.
-
-4. **Conceitos de Agentes, Tarefas e Papéis**
-   – Aqui você aprende, na prática, a definir quem faz o quê — e como orquestrar times de agentes colaborativos.
-
-5. **Aplicações Práticas e Benefícios do CrewAI**
-   – Vamos explorar casos de uso, exemplos reais e os principais ganhos de quem domina essa tecnologia.
+1. **Introdução aos Fundamentos do CrewAI**: Estamos exatamente aqui!
+2. **Visão Geral do Ecossistema CrewAI**: Você vai descobrir todas as ferramentas, integrações e como CrewAI se conecta com o universo da IA.
+3. **Componentes Principais de Projetos CrewAI**: Vamos desmontar um projeto CrewAI para entender cada peça e como montar seu próprio projeto do zero.
+4. **Conceitos de Agentes, Tarefas e Papéis**: Aqui você aprende, na prática, a definir quem faz o quê — e como orquestrar times de agentes colaborativos.
+5. **Aplicações Práticas e Benefícios do CrewAI**: Vamos explorar casos de uso, exemplos reais e os principais ganhos de quem domina essa tecnologia.
 
 Não há pré-requisitos para este curso. Ele foi planejado para ser acessível, mesmo para quem está dando os primeiros passos em Inteligência Artificial ou programação. Ou seja, basta ter curiosidade e vontade de aprender!
 
