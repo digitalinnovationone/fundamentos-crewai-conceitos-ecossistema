@@ -1,4 +1,4 @@
-# Como Você Vai Dominar os Fundamentos do CrewAI
+# Aula 1: Como Você Vai Dominar os Fundamentos do CrewAI
 
 > Já se sentiu perdido ao tentar aprender Inteligência Artificial, com tantas siglas, frameworks e possibilidades? Ou ficou em dúvida sobre como sair do zero e realmente criar agentes inteligentes que colaboram entre si para resolver problemas reais?
 >
