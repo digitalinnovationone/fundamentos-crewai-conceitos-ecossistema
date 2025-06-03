@@ -7,7 +7,7 @@
 Olá, pessoal! Sejam bem-vindos ao curso “Fundamentos do CrewAI: Conceitos e Ecossistema”, aqui na DIO.
 
 Meu nome é Venilton, sou líder técnico do time de Educação da DIO e doutor em Engenharia de Software pelo ICMC-USP. Tenho mais de 15 anos de experiência em tecnologia, com atuação em desenvolvimento de software, arquitetura de sistemas e, mais recentemente, em projetos que usam Inteligência Artificial para tornar o aprendizado mais acessível e eficiente.
-Nos últimos anos, tenho me dedicado a estudar agentes autônomos e a participar de iniciativas inovadoras no uso de IA, sempre buscando aplicar a tecnologia de forma prática e relevante. É com essa bagagem que vou conduzir você nesta jornada sobre CrewAI.
+Nos últimos anos, tenho me dedicado a estudar agentes autônomos e a participar de iniciativas inovadoras no uso de IA, sempre buscando aplicar a tecnologia de forma prática aqui na DIO. É com essa bagagem que vou conduzir você nesta jornada sobre CrewAI.
 
 Ao longo deste curso, nosso foco será:
 
@@ -29,7 +29,8 @@ Aqui está um resumo do que você encontrará nas próximas aulas:
 
 Não há pré-requisitos para este curso. Ele foi planejado para ser acessível, mesmo para quem está dando os primeiros passos em Inteligência Artificial ou programação. Ou seja, basta ter curiosidade e vontade de aprender!
 
-O desafio está lançado: juntos, vamos superar as dificuldades iniciais do universo de IA e entender como o CrewAI pode ser o ponto de partida para uma nova fase na sua carreira.
+O desafio está lançado: juntos, vamos superar as dificuldades iniciais no universo de IA e descobrir como o CrewAI pode ser o ponto de partida para uma nova fase na sua carreira. Vale lembrar que todas as aulas (teóricas e práticas) estão organizadas no repositório oficial da DIO no GitHub. Não esqueça de deixar uma estrelinha e acompanhar as nossas atualizações por lá. Caso tenha alguma dúvida ou encontre problemas, abra uma issue no próprio repositório, eu ou alguém da comunidade ficará feliz em ajudar!
 
-Prepare-se para uma experiência introdutória, focada e conectada com o que há de mais atual no desenvolvimento de agentes autônomos.
+É isso, galera! Prepare-se para uma experiência introdutória, prática e conectada com o que há de mais atual no desenvolvimento de agentes autônomos.
+
 Vamos nessa!
