@@ -1,8 +1,6 @@
 # Fundamentos do CrewAI: Conceitos e Ecossistema
 
-Repositório do Curso "Fundamentos do CrewAI: Conceitos e Ecossistema". 
-
-Descrição: Descubra o universo do CrewAI, explorando seus conceitos fundamentais e o ecossistema que sustenta o
+Descubra o universo do CrewAI, explorando seus conceitos fundamentais e o ecossistema que sustenta o
 desenvolvimento de agentes inteligentes. Ao fnal deste curso, você compreenderá a estrutura básica do
 CrewAI, suas principais funcionalidades e como ele se integra ao cenário de IA atual. Destinado a iniciantes,
 este curso é ideal para quem deseja iniciar sua trajetória como desenvolvedor de agentes autônomos.
@@ -14,7 +12,7 @@ se diferencia de outras plataformas. Ao concluir, você terá uma visão clara d
 estará preparado para avançar para a prática, sendo um recurso valioso para quem busca se destacar no
 desenvolvimento de IA.
 
-Subcompetência: Fundamentos do CrewAI
+Subcompetência: `Fundamentos do CrewAI`
 
 Pré-requisitos: Nenhum
 
