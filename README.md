@@ -28,3 +28,9 @@ Conquistas:
 - Aprimore suas habilidades em CrewAI através dos Fundamentos do CrewAI.
 - Conquiste a Badge Fundamentos do CrewAI: Conceitos e Ecossistema
 - Receba o Certifcado de Conclusão para Fundamentos do CrewAI: Conceitos e Ecossistema
+
+## Prática Guiada no Google Colab
+
+Durante o curso, todas as práticas foram organizadas em um notebook interativo no Google Colab. Você pode executar os códigos diretamente do seu navegador, sem precisar instalar nada:
+
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sua-org/seu-repo/blob/main/notebooks/fundamentos_crewai.ipynb)
