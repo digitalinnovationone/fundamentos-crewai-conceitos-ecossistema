@@ -33,4 +33,4 @@ Conquistas:
 
 Durante o curso, todas as práticas foram organizadas em um notebook interativo no Google Colab. Você pode executar os códigos diretamente do seu navegador, sem precisar instalar nada:
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sua-org/seu-repo/blob/main/notebooks/fundamentos_crewai.ipynb)
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KCdu3J1xjHidgjrrceLCx224yeDm2EGx?usp=sharing)
